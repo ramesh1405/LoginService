@@ -1,0 +1,9 @@
+com\rest\service\StudentService.class
+com\rest\model\Student.class
+com\rest\dao\StudentDao.class
+com\rest\controller\StudentController.class
+com\rest\dao\CourseDaoImpl.class
+com\rest\dao\IStudentDao.class
+com\rest\model\Course.class
+com\rest\dao\ConnUtil.class
+com\rest\validator\AuthValidator.class
